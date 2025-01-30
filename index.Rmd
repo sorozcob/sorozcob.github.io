@@ -1,6 +1,6 @@
 ---
 title: "Santiago Orozco-Barrera"
-image: "frank.jpg"
+image: "santiago.jpg"
 links:
   - label: GitHub
     url: "https://github.com/sorozcob"
@@ -16,18 +16,13 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I am student of Genomic Sciences at the Genomic Science Center, UNAM. My personal interests involve Bioinformatic and Machine Learning.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+<a href="https://www.ccg.unam.mx/"><span style="color:  #931f1f;"> **Centro de Ciencias Genómicas**</span></a> | National Autonomous University of Mexico
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Licenciatra en Ciencias Genómicas | August 2023 - Present
 
 **The University of California, Berkeley** | Berkeley, CA
 
