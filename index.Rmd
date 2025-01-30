@@ -1,15 +1,15 @@
 ---
-title: "Frank Hermosillo"
+title: "Santiago Orozco-Barrera"
 image: "frank.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/sorozcob"
+  - label: Bluesky
+    url: "https://bsky.app/profile/sorozcob.bsky.social"
+  - label: GitHub
+    url: "https://github.com/sorozcob"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:sorozcob.83@gmail.com"
 output:
   postcards::trestles
 ---
