@@ -6,8 +6,6 @@ links:
     url: "https://github.com/sorozcob"
   - label: Bluesky
     url: "https://bsky.app/profile/sorozcob.bsky.social"
-  - label: GitHub
-    url: "https://github.com/sorozcob"
   - label: Email
     url: "mailto:sorozcob.83@gmail.com"
 output:
@@ -16,7 +14,7 @@ output:
  
 ## Bio
 
-I am student of Genomic Sciences at the Genomic Science Center, UNAM. My personal interests involve Bioinformatic and Machine Learning.
+I am an undergraduate student of Genomic Sciences at the Genomic Science Center, UNAM. I have a great appetite for learning and developing new skills. I seek to contribute to interdisciplinary projects that integrate bioinformatics, applied mathematics, and genomics.
 
 ## Education
 
@@ -24,12 +22,10 @@ I am student of Genomic Sciences at the Genomic Science Center, UNAM. My persona
 
 Licenciatra en Ciencias Genómicas | August 2023 - Present
 
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+<a href="https://www.ccg.unam.mx/"><span style="color:  #931f1f;"> **Centro de Ciencias Genómicas**</span></a> | **Microbiología Ambiental y Simbiótica** | Dra. Esperanza Martínez Romero | National Autonomous University of Mexico | Undergraduate researcher  | February 2018 - June 2018
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+## 
+
