@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "sorozcob.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: minimal
+    css: styles.css
+    toc: true
+
+
+
